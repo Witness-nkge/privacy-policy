@@ -38,7 +38,6 @@ Under the Data Protection Legislation, we must always have a lawful basis for us
 We may use your data for the following purposes:
 
 - Personalising and tailoring your experience on the App;
-- Informing you of news relating to our services;
 - Replying to emails from you;
 - Analysing your use of the App and gathering feedback to enable us to continually improve the App and your user experience;
 
